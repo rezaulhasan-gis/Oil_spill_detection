@@ -1,14 +1,14 @@
 ### Oil Spill Detection using SAR Data and Machine Learning
 
-#### 📌 Project Overview
+####  Project Overview
 
 This project focuses on detecting and classifying oil spills using Synthetic Aperture Radar (SAR) data through Machine Learning (ML) and Deep Learning (DL) techniques. The study was conducted as part of an academic assignment at the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente.
 
-#### 🚀 Methodology
+####  Methodology
 
 The project employs a combination of traditional ML techniques and deep learning-based semantic segmentation for oil spill detection, overcoming challenges like speckle noise, class imbalance, and false alarms.
 
-#### 🔍 Techniques Used:
+####  Techniques Used:
 
 - **Exploratory Data Analysis (EDA)**
 - **Traditional Machine Learning (ML)**
@@ -18,7 +18,7 @@ The project employs a combination of traditional ML techniques and deep learning
   - DeepLabV3+ for semantic segmentation
   - U-Net for pixel-wise classification
 
-#### 💊 Results
+####  Results metrics
 
 The models were evaluated based on:
 
@@ -26,11 +26,11 @@ The models were evaluated based on:
 - **Intersection over Union (IoU)**
 - **Classification Report**
 
-#### 📁 Dataset
+#### Dataset
 
 The project utilizes SAR satellite imagery to classify oil spills and distinguish them from look-alikes caused by meteo-oceanographic events.
 
-#### 🛠 Requirements
+#### Requirements
 
 To reproduce the results, you may need the following:
 
@@ -40,9 +40,9 @@ To reproduce the results, you may need the following:
 - OpenCV
 - GDAL
 
-#### 🏆 Contributors
+#### Contributors
 
-- **Group 8**
+- **Group Project**
 - Rezaul Hasan Bhuiyan
 - Abdul-Raheem Umar
 - Kaushal Kishor
