@@ -52,8 +52,8 @@ To reproduce the results, you may need the following:
 
 November 10, 2023
 
-#### 💖 Citation
-
+#### Citation
+This project is mostly a reuse of the work of Krestenitis, So,
 If you use this project, please cite:
 
 *Krestenitis, M., Orfanidis, G., Ioannidis, K., Avgerinakis, K., Vrochidis, S., & Kompatsiaris, I. (2019). Oil spill identification from satellite images using deep neural networks. Remote Sensing, 11(15), 1762.*
